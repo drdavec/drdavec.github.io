@@ -459,50 +459,6 @@
         },
         {
             "type": "display",
-            "linkId": "5",
-            "text": "We’d like to know more about how you manage your pain and what has worked for you. When answering these questions, please <strong>focus on pain</strong> related to what brings you in for your upcoming medical visit. <br/><br/> These treatments are organized into sections by type: <br/> Basic therapies <br/>Mind-body therapies<br/>New therapies<br/>Non-prescription medicines <br/>Prescription medicines",
-            "prefix": "About My Treatments"
-        },
-        {
-            "type": "text",
-            "code": [
-                {
-                    "code": "about-my-goals",
-                    "display": "We’d like to know more about you and your goals.",
-                    "system": "http://fhir.org/guides/preventive-care/CodeSystem/mpc-questionnaire-codes"
-                },
-                {
-                    "code": "mpq-1035",
-                    "display": "What are your most important activity goals? For example: I’d like to be able to walk without pain.",
-                    "system": "http://fhir.org/guides/preventive-care/CodeSystem/mpc-questionnaire-codes"
-                }
-            ],
-            "required": false,
-            "linkId": "11",
-            "text": "We’d like to know more about you and your goals. What are your most important activity goals? For example: I’d like to be able to walk without pain.",
-            "prefix": "About My Goals"
-        },
-        {
-            "type": "text",
-            "code": [
-                {
-                    "code": "about-my-goals",
-                    "display": "We’d like to know more about you and your goals.",
-                    "system": "http://fhir.org/guides/preventive-care/CodeSystem/mpc-questionnaire-codes"
-                },
-                {
-                    "code": "mpq-1036",
-                    "display": "What are the biggest barriers to achieving your activity goals? For example: I have a lot of stress from work which makes my pain worse.",
-                    "system": "http://fhir.org/guides/preventive-care/CodeSystem/mpc-questionnaire-codes"
-                }
-            ],
-            "required": false,
-            "linkId": "12",
-            "text": "What are the biggest barriers to achieving your activity goals? For example: I have a lot of stress from work which makes my pain worse.",
-            "prefix": "About My Goals"
-        },
-        {
-            "type": "display",
             "linkId": "13",
             "text": "Watch a 3-minute video about the PSA testing. We’d like to suggest you watch the video to help you prepare for your upcoming visit. This video can help you prepare to ask questions that are important to you when you visit with your provider. <br/> <br/> <a id=\"replace\" value=\"psa-video\"></a>",
             "prefix": "Learn More"

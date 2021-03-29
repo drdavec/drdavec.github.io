@@ -1,6 +1,5 @@
 {
-  "client_id": "6881045f-a049-4c57-9a80-0a434953bccd",
-  "redirect_uri": "https://drdavec.github.io",
-  "scope": "launch openid patient/Patient.read patient/Condition.read patient/Observation.read",
+  "clientId": "c7abfd30-85dd-42ba-9624-cbc41f5c00fc",
+  "scope": "launch launch/patient patient/Patient.read patient/Questionnaire.read patient/Questionnaire.write patient/Condition.read patient/Observation.read",
   "completeInTarget": true
 }
